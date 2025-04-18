@@ -2,7 +2,7 @@
 
 ## 📬 Reporting Vulnerabilities
 
-Please report security issues to: **security@hypercube.ai**
+Please report security issues to: **sashoderama@gmail.com**
 
 We will triage and respond within 48 hours. Please include:
 - The affected file or function
